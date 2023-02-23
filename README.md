@@ -6,7 +6,7 @@ A simple iex/elixir kernel for jupyter.
 Created using IPython's kernel and pexpect's REPLWrapper subclasses.
 This is a WIP, some things might just not work.
 
-## Installation
+## Dev Installation
 
 - install Elixir from your distro's package manager
 - `pip install` jupyterlab and pexpect
